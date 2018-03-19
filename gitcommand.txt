@@ -8,3 +8,5 @@ git add <file>
 git commit -m "comments"
 
 git status
+
+git diff <file>
