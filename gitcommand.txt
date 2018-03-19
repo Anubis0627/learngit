@@ -4,3 +4,5 @@ git config --global user.email "email@example.com"
 git init
 
 git add <file>
+
+git commit -m "comments"
