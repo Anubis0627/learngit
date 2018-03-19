@@ -6,3 +6,5 @@ git init
 git add <file>
 
 git commit -m "comments"
+
+git status
