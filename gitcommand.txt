@@ -18,3 +18,5 @@ git reset --hard HEAD^
 git reset --hard <version>
 
 git reflog
+
+git checkout -- <file>
