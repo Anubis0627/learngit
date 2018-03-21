@@ -22,3 +22,5 @@ git reflog
 git checkout -- <file>
 
 git reset HEAD <file>
+
+git rm <file>
