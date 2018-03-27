@@ -60,3 +60,5 @@ git branch -D <name>
 git checkout -b <name> origin/<name>
 
 git branch --set-upstream <name> origin/<name>
+
+git remote -v
