@@ -54,3 +54,5 @@ git stash list
 git stash pop
 git stash apply
 git stash drop
+
+git branch -D <name>
