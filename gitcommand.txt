@@ -30,3 +30,5 @@ git remote add origin git@server-name:path/repo-name.git
 git push origin master
 
 git clone git@server-name:path/repo-name.git
+
+git pull origin master
