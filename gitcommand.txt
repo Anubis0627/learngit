@@ -68,3 +68,8 @@ git tag <name>
 git tag <name> <commitid>
 git tag -a <tagname> -m "blablabla..."
 git tag -s <tagname> -m "blablabla..."
+
+git push origin <tagname>
+git push origin --tags
+git tag -d <tagname>
+git push origin :refs/tags/<tagname>
