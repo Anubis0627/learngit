@@ -62,3 +62,9 @@ git checkout -b <name> origin/<name>
 git branch --set-upstream <name> origin/<name>
 
 git remote -v
+
+git tag
+git tag <name>
+git tag <name> <commitid>
+git tag -a <tagname> -m "blablabla..."
+git tag -s <tagname> -m "blablabla..."
